@@ -1,7 +1,7 @@
 ClamAV
 --------
 
-A ColdFusion component for scanning file with [ClamAv](http://www.clamav.net).
+A ColdFusion component for scanning files with [ClamAv](http://www.clamav.net).
 Tested on CentOS 6
 
 ### Getting Started
