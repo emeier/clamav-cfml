@@ -16,8 +16,6 @@ clamav = new clamav.ClamAV()
 
 ## Scanning
 
-Create a [new job](https://app.zencoder.com/docs/api/jobs/create).
-
 ```
 result = clamav.scan("absolute/path/to/file")
 ```
